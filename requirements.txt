@@ -2,3 +2,4 @@ gensim
 annoy
 ipywidgets
 notebook
+gradio
